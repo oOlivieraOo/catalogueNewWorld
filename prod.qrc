@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="commandes">icones/commandes.png</file>
+        <file alias="quit">icones/gtk-quit.png</file>
+        <file alias="delivery">icones/delivery.jpeg</file>
+        <file>icones/login.png</file>
+        <file>icones/password.png</file>
+    </qresource>
+</RCC>
